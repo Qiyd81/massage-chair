@@ -14,5 +14,4 @@ using motors and adding unbalanced weight to the axis so it would vibrate.
 <img src="https://github.com/Shilvan/massage-chair/blob/master/resources/board-front.jpeg" width="40%"/>
 
 ## End result
-<img src="https://github.com/Shilvan/massage-chair/blob/master/resources/chair-side.jpeg" width="45%"/>
-<img src="https://github.com/Shilvan/massage-chair/blob/master/resources/chair-front.jpeg" width="45%"/>
+<img src="https://github.com/Shilvan/massage-chair/blob/master/resources/chair-side.jpeg" width="45%"/><img src="https://github.com/Shilvan/massage-chair/blob/master/resources/chair-front.jpeg" width="45%"/>
