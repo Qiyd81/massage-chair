@@ -5,11 +5,12 @@ using motors and adding unbalanced weight to the axis so it would vibrate.
 
 
 ## Budjet & Design
-### First I designed and set the measurements of the pvc tubes so we knew how many meters we needed:
+#### First I designed and set the measurements of the pvc tubes so we knew how many meters we needed:
 <p align="center">
   <img src="https://github.com/Shilvan/massage-chair/blob/master/resources/design.png" height="400"/>
 </p>
-### From the projections, we kept documenting every expense as part of the project deliverables:
+
+#### From the projections, we kept documenting every expense as part of the project deliverables:
 <img src="https://github.com/Shilvan/massage-chair/blob/master/resources/budjet.png"/>
 
 ## Circuit & Arduino implementation
