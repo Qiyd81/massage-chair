@@ -5,10 +5,14 @@ using motors and adding unbalanced weight to the axis so it would vibrate.
 
 
 ## Budjet & Design
-
+![Budjet](https://github.com/Shilvan/massage-chair/blob/master/resources/budjet.png)
+![Design](https://github.com/Shilvan/massage-chair/blob/master/resources/design.png)
 
 ## Circuit & Arduino implementation
-
-
+![Circuit design](https://github.com/Shilvan/massage-chair/blob/master/resources/circuit.jpeg)
+![Arduino board top](https://github.com/Shilvan/massage-chair/blob/master/resources/board-top.jpeg)
+![Arduino board front](https://github.com/Shilvan/massage-chair/blob/master/resources/chair-front.jpeg)
 
 ## End result
+![Chair](https://github.com/Shilvan/massage-chair/blob/master/resources/chair-side.jpeg)
+![Massage box](https://github.com/Shilvan/massage-chair/blob/master/resources/chair-front.jpeg)
