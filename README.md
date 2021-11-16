@@ -6,7 +6,9 @@ using motors and adding unbalanced weight to the axis so it would vibrate.
 
 ## Budjet & Design
 First I designed and set the measurements of the pvc tubes so we knew how many meters we needed
-<img src="https://github.com/Shilvan/massage-chair/blob/master/resources/design.png" height="400"/>
+<p align="center">
+  <img src="https://github.com/Shilvan/massage-chair/blob/master/resources/design.png" height="400"/>
+</p>
 From the projections, we kept documented every expense as part of the project deliverable
 <img src="https://github.com/Shilvan/massage-chair/blob/master/resources/budjet.png"/>
 
