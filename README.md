@@ -18,6 +18,7 @@ As I knew how to use an Arduino, our group decided to implement a massage box in
 <p align="center">
   <img src="https://github.com/Shilvan/massage-chair/blob/master/resources/circuit.jpeg" height="400"/>
 </p>
+
 #### The relay is connected to an Arduino output pin and when it receives the voltage, on state, it serves as a switch to the motors so we can get the vibration.
 <img src="https://github.com/Shilvan/massage-chair/blob/master/resources/board-top.jpeg" width="40%"/><img src="https://github.com/Shilvan/massage-chair/blob/master/resources/board-front.jpeg" width="40%"/>
 
